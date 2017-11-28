@@ -45,6 +45,8 @@ strong_vowel "'" "u" !"r" -> $ $ /w/
 "ni" vowel -> /ɲ/ $;
 "nj" vowel -> /ɲ/ $;
 "i" vowel -> /j/ $
+## added by https://twitter.com/sashimiwiki/status/935493190504759299
+"u" vowel -> /w/ $;
 
 "s" "j" !vowel -> /z/ $;
 "s" !vowel -> /s/
