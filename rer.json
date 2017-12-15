@@ -26245,13 +26245,13 @@
       "form" : "larkj"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "larkj" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【他動詞】貯める　蓄える　溜める\r\n\r\n[2014:rakei:YGK::]"
+      "title" : "mea",
+      "text" : "rakei:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -26293,13 +26293,13 @@
       "form" : "larl"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "larl" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】点　・　ドット　図の点　ピリオド　文末の点 . ラール\r\n【名詞】ピクセル　画素\r\n\r\n[2014:rar:YGK:点]\r\n[語法]\r\n【他動詞】larles　終わらせる　終着させる　ピリオドを打つ"
+      "title" : "mea",
+      "text" : "rar:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -27037,16 +27037,13 @@
       "form" : "laznernien"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "laznernien" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【形容詞】高性能な、スペックの高い\r\n【形容詞】高等な　高度な　上等な\r\n\r\n[2015:raznerni:YGK:高性能な]"
-    }, {
-      "title" : "用例",
-      "text" : "Tamiy leus japaeoer's kikud'i lersseo es set laznernien ja.　日本人がタミル語で英語を学ぶなんて高度じゃないか。"
+      "title" : "mea",
+      "text" : "raznerni:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -27388,13 +27385,13 @@
       "form" : "lerdhi"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "lerdhi" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【他動詞】からかう　軽く馬鹿にする　おもしろがって言う\r\n\r\n[2015:rezem:YGK:からかう]"
+      "title" : "mea",
+      "text" : "rezem:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -29299,13 +29296,13 @@
       "form" : "listorbar"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "listorbar" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【他動詞】(科学的に、公の場で)生殖する、産む\r\n\r\n[2014:ristorbaa:YGK:生殖する]"
+      "title" : "mea",
+      "text" : "ristorbaa:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -29896,16 +29893,13 @@
       "form" : "luarchar"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "luarchar" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】異言語　外国語　非母国語\r\n\r\n[2014:la wacha:YGK:::]"
-    }, {
-      "title" : "用例",
-      "text" : "Harmie fqa'd luachar es? この異言語はなんですか?"
+      "title" : "mea",
+      "text" : "la wacha:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -30336,13 +30330,13 @@
       "form" : "lynor"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "lynor" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】ギター\r\n\r\n[2015:rino:YGK:ギター]"
+      "title" : "mea",
+      "text" : "rino:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -30815,13 +30809,13 @@
       "form" : "marfarl"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "marfarl" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】ガントチャート\r\n\r\n[2015:moohooru:YGK:ガントチャート]"
+      "title" : "mea",
+      "text" : "moohooru:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -30882,13 +30876,13 @@
       "form" : "marnel"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "marnel" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】投資\r\n\r\n[2015:moonereho:YGK:投資する]"
+      "title" : "mea",
+      "text" : "moonereho:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -31038,16 +31032,13 @@
       "form" : "mecceries"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "mecceries" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【間投詞】【副詞】とりあえず、なんとなく、一応\r\n\r\n[2014:masseres:YGK:とりあえず]"
-    }, {
-      "title" : "用例",
-      "text" : "Lecu mecceries mattilien xelken-ales'i. とりあえず、Xelken.alesを再建してみよう。"
+      "title" : "mea",
+      "text" : "masseres:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -31057,13 +31048,13 @@
       "form" : "medarne"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "medarne" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】共産主義\r\n\r\n[2015:muzoonerngedom:YGK:共産主義]"
+      "title" : "mea",
+      "text" : "muzoonerngedom:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -31204,13 +31195,13 @@
       "form" : "menkar"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "menkar" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】原理派　原理主義派　根本主義　ファンダメンタリズム\r\n\r\n[2014:mang:YGK:母]"
+      "title" : "mea",
+      "text" : "mang:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -31504,13 +31495,13 @@
       "form" : "mexerlaztej"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "mexerlaztej" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】メシェーラ　メシェーラツテイ　メシェーラ筆\r\n【名詞】[DA,DL,DK:デュイン]かんざし\r\n\r\n[2014:mesyyera'd dustej:YGK LIY:メシェーラの筆]\r\n[類義語:ngantilmexerlaztej]\r\n[語法]\r\nMexerlaztej distyk.　メシェーラが飛ぶ、(主にハタ王国がらみの)紛争が発生する\r\n\r\n[文化]\r\nカラムディアの書道でつかわれる、竹、または木を7×7×30mmくらいの直方体にカットし、先端を平べったくしたペン。先端には墨をつける。ユエスレオネではこれで書かれたリパーシェをメシェーラリパーシェと呼び一字体としての体を獲得している。Hata lut  dustej、Kalamdi'a lut dustejとも言う。ファイクレオネ人はラネーメ人の使う筆と同じものと思っていたため筆という単語がくっついた。"
+      "title" : "mea",
+      "text" : "mesyyera'd dustej:YGK LIY"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -31520,13 +31511,13 @@
       "form" : "mexkerfatis"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "mexkerfatis" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】コンピューターネットワーク　ネットワーク\r\n\r\n[2015:masy kappadis:YGK:コンピューターをつなげること]"
+      "title" : "mea",
+      "text" : "masy kappadis:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -31552,16 +31543,13 @@
       "form" : "mier"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "mier" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【間投詞】てへ　てへ☆\r\n\r\n[2015:myere:YGK:てへ]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\n「あざとい系」「おちゃめ系」の人がよく使う\r\n……と有語辞書には書いてあるが理語ではこのなかでもvefistasの文化の中でユーゲ人にのみに当てはまる。"
+      "title" : "mea",
+      "text" : "myere:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -31743,16 +31731,13 @@
       "form" : "mittar"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "mittar" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【自動詞】水遊びをする\r\n【他動詞】無駄にする　無駄遣いする\r\n\r\n[2015:mitthuor:YGK:水遊びする]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\nユエスレオネで水が貴重であるため、非常に高価になる。このために共和制ユエスレオネ時代では富の象徴とされた。社会主義革命後は富の象徴から資本主義の象徴となったため人々には忌まれるようになった。ショレゼスコ後ではdzacarも盛んに行われるようになった。"
+      "title" : "mea",
+      "text" : "mitthuor:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -31934,16 +31919,13 @@
       "form" : "murtmir"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "murtmir" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】量　数量　何かの多さ\r\n\r\n[2014:muri tomi:YGK:量が多い、少ない]\r\n[語法]\r\n【名詞】【接続詞】murtmirm いくつ　どれくらい\r\n→接続詞として利用したときには直接目的語に係る。属格語尾をつけて特定の名詞に係ることも出来る。"
-    }, {
-      "title" : "用例",
-      "text" : "Liaxa murtmirm elmer's zirk'i reto? 兵士は何人の敵を殺したのか。\r\nLiaxa murtmirme'd elmer's zirk'i reto?　何人の兵士が敵を殺したのか。"
+      "title" : "mea",
+      "text" : "muri tomi:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -32160,13 +32142,13 @@
       "form" : "narkhamarjalfa"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "narkhamarjalfa" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】情報処理　情報技術\r\n\r\n[2014:naagamooyarba:YGK:情報処理]"
+      "title" : "mea",
+      "text" : "naagamooyarba:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -32469,13 +32451,13 @@
       "form" : "nemnarga"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "nemnarga" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】ネムナーガ、物体のユナ量=Ny化する時に発するWP線の強さ=物体の持っているWPoの量、rG\r\n\r\n[2014:nemnaga:YGK:化学変化]"
+      "title" : "mea",
+      "text" : "nemnaga:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
