@@ -1,0 +1,625 @@
+2017年12月15日 17:35 TWTにて
+【編集注: Skypeのスクショ開始】
+14:32
+「xelkene'd rer辞書」作りたい、という気持ちが発生したのでテンプレートを作ってみる
+
+14:46
+対象単語（母音字+rを含む単語）、3025単語ありますな
+【編集注: Skypeのスクショ終了】
+  .sozysozbot.@hsjoihs@jekto.vatimelijuさんが3 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 予想以上に多かった
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが3 時間前に送信したこのメッセージを削除
+3時間 3 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ xelkene'd rer辞書とか地獄感ありそう。
+ Fafs/தமிழ் மாணவன்さんが3 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが3 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+3時間 3 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ NHKアクセント辞典とかのノリでね
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが3 時間前に送信したこのメッセージを削除
+3時間 3 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ まああったらあったで面白そう。
+ Fafs/தமிழ் மாணவன்さんが3 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが3 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+3時間 3 時間前
+なお3000語検証せんと
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが3 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ いかん模様
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが3 時間前に送信したこのメッセージを削除
+3時間 3 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ まあ、語源が書いてあれば確実だから(小声)
+ Fafs/தமிழ் மாணவன்さんが3 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが3 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+3時間 3 時間前
+国際理語を抜いたところ2885単語に
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 「廃止」を削除し2880語
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 語源情報が書いてあるのはそのうち2209語
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ほう
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+ Fafs/தமிழ் மாணவன்
+ てか国際理語多すぎ
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 国名転写したときに長母音入りやすいんやろうなぁ
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ なるほどなあxelkene'd rerだったら全部明示長音扱いになるよな
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ まあxelkene'd rer辞書はリパラオネ人の使うものなので、国際理語は削除した
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ あー、リパラオネ人が使うものと云えば理理辞書案件やらなきゃなあ
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+伐理辞書も作りたいんですよね
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ まだ101語しかない今がチャンス
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ いいねえ
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ さて、rer辞書、リパーシェの文字名から始めるか。自明に代償延長以外で発生したものだな
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ せやな
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ あとYGKは全部「代償延長以外」だろうな
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ まあ、現世語源説に沿うならな(それを言い始めるときりがない)
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 仕様が変わったらその度にrer辞書が変わるんやで
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ S.Y@タカン系パイグ系日本人
+ 現世でも つくえ vs つくゑ とかありますし（それは仕様ではない）
+ S.Y@タカン系パイグ系日本人さんが2 時間前に送信したこのメッセージを報告 S.Y@タカン系パイグ系日本人さんが2 時間前に送信したこのメッセージを削除
+S.Y@タカン系パイグ系日本人
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 「備考」って理語でどういうん？
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ちなみにって感じよね
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+ Fafs/தமிழ் மாணவன்
+ 「ちなみに」はmea
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+aders 備考:YGK adeez、みたいに書きたい
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ mea:でいいと思われ
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ OK
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ berとかのmeaはどう書こうかな、「liparxe」で十分か？（いや、自明だし書かなくていいか）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 自明っぽさはあるけど
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ Fafs/தமிழ் மாணவன்
+ 書いても悪いことはなさそう
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+liparxeってliparxe? lipaRxe?
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 語源不明か、うーん
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+どうだろうリパーシェって単語自体は確か古理語でも使ってたと思う。
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+ Fafs/தமிழ் மாணவன்
+ でもliparsheとは書かなかったと思うから記憶違いが無ければ明示長音
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ふむ
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ じゃあliparxeでOKか
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ うむ(ただ、確実じゃない旨を書いておきたい)
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ あ、meaに書く注としてのliparxeという単語
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ あー
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ じゃあliparxeという語自体には書いとくわ
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 古理語コーパスも作った方がいいかもしれないなあ。
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ とりあえずYGKから埋めていきます
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ なるほどな？
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+過去資料を引っ張り出しました。古リパーシェ画像を見ると"lipha she"と書いてある
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+ Fafs/தமிழ் மாணவன்
+ …https://729179bb-a-62cb3a1a-s-sites.googlegroups.com/site/fafscafe/hajimetenoriparain/2ripashewenzi/lipha20she.jpg?attachauth=ANoY7colml4dthlXSI-y0b0Qg8JFxUMNOx4ohQ0YBF8Kxw7IPri-XGDjhgS0oyXt1PEW62pWjXEiwvYJWsUJMca0OQ_a4LGG_eWO6tlQe9JtuDBXtUi6wss9DPIaclz9Mz6ugY0MrwrmG-wOhV-hKyHyjwi-N0SRId9Js4NchBUNLDw4GnuPSP4EpQvJCIFNDlszaryYh5XFXVKcODDt_wJB_xL63S1pVgmR5xw-A1xoQmMRcvXEiDK3CHEnShPUuJBujR2xPG1D&attredirects=0 …
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+なるほど
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ じゃあ確定か
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 元々はlipha sheで→lipashe→liparxeになっていったんだなあ。作者でも忘れるという。
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ lipa she:LIE、でOKかな
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ S.Y@タカン系パイグ系日本人
+ liparsheっていう表記もあったよね。
+ S.Y@タカン系パイグ系日本人さんが2 時間前に送信したこのメッセージを報告 S.Y@タカン系パイグ系日本人さんが2 時間前に送信したこのメッセージを削除
+S.Y@タカン系パイグ系日本人
+2時間 2 時間前
+うーん、定着した古理語ならlipashe、元々の語を指すならlipha sheだね
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+ Fafs/தமிழ் மாணவன்
+ liparsheは多分現代理語、初期はこれで書かれてた。
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ あ、そうか、lipasheか
+liparxeとliparsheにそう書いときます
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ liphaは古理語で沈黙をさすらしい。*sheはよくわからない。sheが含まれるのはpleashe(現代理語同根語はplax)、音象徴としてはshi(感謝)があったけど確実じゃない。ってか「沈黙感謝」ってなんや。
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ S.Y@タカン系パイグ系日本人
+ 沈黙と感謝で対比させて万物の表現を意味したんでしょ（適当）
+ S.Y@タカン系パイグ系日本人さんが2 時間前に送信したこのメッセージを報告 S.Y@タカン系パイグ系日本人さんが2 時間前に送信したこのメッセージを削除
+S.Y@タカン系パイグ系日本人
+2時間 2 時間前
+とりあえずYGKを埋めるぞい
+もう辞書の1.2%も終わった、やったぜ（錯乱）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ あとはこれを80回繰り返せば終わるな（錯乱）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ でもrer辞書作るためにちゃんと語源調査をしなければならないってのは逆に語源の進捗も出てエモいな。
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ ですな
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 有のurが理のurlとかになったりするのも、まあ代償延長ではないし普通にrだな
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ rlが常にRlじゃないの枝r利用者にとっては発狂もんでしょ
+ Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが2 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 2 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 理語に入る過程で勝手に伸びてる単語も結構あるなぁ
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが2 時間前に送信したこのメッセージを削除
+2時間 2 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 勝手に伸びてるは草
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+2時間 1 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ phatona -> fartonarとか
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ ほんとだ、勝手に伸びてる
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+1時間 1 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 2.25%完了
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ (ot)どうでもいいが最近hindiをhindyとtypoしまくる
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+1時間 1 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ YGKの-narがリパでも-narになっている例、これも普通に長音rでいいよね
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ そうね
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+1時間 1 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ というかもうYGKは全部長音rでいいでしょ（これは罠で、jarrとかは普通にjarRと綴るしかない）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+え、jarrじゃないん？
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+ Fafs/தமிழ் மாணவன்
+ いや,
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+1時間 1 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 子音のRはRでしょ
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 枝rでの？
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+1時間 1 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ xelkenでもそうでしょ（さもないと、rafteはLIYだからRafteだけどrakarはユーゴックだからrakar、となって不便極まりないかと）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ xelkenってそういう書き方じゃないの？
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+1時間 1 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 私の脳内では[r]はRで全部書くという想定だった（xelkene'd rerでは、rは「長音符号」、Rは「[r]またはかつての/r/」である、という想定だった）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 私はかつての/r/以外は全部rかと思ってたなあ
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+1時間 1 時間前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ xelkene'd rerその1とその2（闇）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+opcodeはfafs氏のslackからコピペして『「長母音をVrとして後世に明確化させたときのみ無声r表記にすべきで、それ以外はRで書くべき」という、最も保守的な流派。』とあるんよ
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 「それ以外は」は子音も含むと想定していた
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+ S.Y@タカン系パイグ系日本人
+ 許容仮名遣みたいな感じになりそう？
+ S.Y@タカン系パイグ系日本人さんが1 時間前に送信したこのメッセージを報告 S.Y@タカン系パイグ系日本人さんが1 時間前に送信したこのメッセージを削除
+S.Y@タカン系パイグ系日本人
+1時間 1 時間前
+ありゃ？Rで書くべきなのは元々リパライン語のʀだったって話じゃなかったっけ
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+ Fafs/தமிழ் மாணவன்
+ hrlichはR/hだったというところから
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+1時間 1 時間前
+
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+ 【編集注：ここに貼った画像は https://drive.google.com/file/d/1XDOGEo_BJst7NDYAOyEaKxkrEc_kTpd9/view?usp=sharing に置いてある】
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 私の脳内はこれに従っていた
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ これ、日本語が悪くて多分言いたいことは「長母音をVrとして後世に明確化させたとき」ってのは「ʀの代償延長以外の現世/r/」のことだと思ってた。
+ Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが1 時間前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+1時間 1 時間前
+なるほどなぁ。さてどちらにしたものか
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ どっちでもいいけど、どっちかには決めなきゃだからね（まあ、「その1とその2」でもいいけど）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが1 時間前に送信したこのメッセージを削除
+1時間 1 時間前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 初学者は代償延長のみをRで転写していると言っているね。
+ Fafs/தமிழ் மாணவன்さんが58 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが58 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+58分 58 分前
+ Fafs/தமிழ் மாணவன்
+ この方式だとgardun.LIEだから-gardは-gaRdになるわけだけど、rakarは代償延長じゃないのでrakarになるわけだわな。
+ Fafs/தமிழ் மாணவன்さんが55 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが55 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+56分 55 分前
+初学者、「元々[ʀ]を起源とする/r/を R と書き、長母音が[ʀ]の代償延長以外で発生したものに対しては r で書き分ける方式です」なので、「[ʀ]を起源としない[r]」の記載が漏れているなぁ
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが55 分前に送信したこのメッセージを削除
+これだとその1ともその2とも取れる
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが55 分前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ どちらに決めるにせよ、加筆が要る
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが54 分前に送信したこのメッセージを削除
+55分 54 分前
+送信しました
+ 
+ S.Y@タカン系パイグ系日本人
+ 借用語が闇なのか？（よくわかっていない）
+ S.Y@タカン系パイグ系日本人さんが54 分前に送信したこのメッセージを報告 S.Y@タカン系パイグ系日本人さんが54 分前に送信したこのメッセージを削除
+S.Y@タカン系パイグ系日本人
+54分 54 分前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ そういうこと
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが53 分前に送信したこのメッセージを削除
+54分 53 分前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 最も保守的なんだし、起源を重要視して借用語は排除しそうじゃん？
+ Fafs/தமிழ் மாணவன்さんが52 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが52 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+53分 52 分前
+【再掲】「rafteはLIYだからRafteだけどrakarはユーゴックだからrakar」
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが52 分前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 歴史的仮名遣いで外来語ってどう扱ってたっけなぁ
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが52 分前に送信したこのメッセージを削除
+53分 52 分前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ xelkene'd rerの基本はetollenと同じでrの区別は音韻としては不要というもので、表面上での区別は起源を重要視したものだから利便性とか考えてない。
+ Fafs/தமிழ் மாணவன்さんが49 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが49 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+50分 49 分前
+外来語を無視した場合、xelkene'd rerって「Rは古の[r]のみの字である」という主義とも「rは長音符号のみである」という主義とも取れるんよね。どちらも保守性と矛盾しない
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが48 分前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 私の脳内では「rは長音符号のみである」という主義と解釈されていて、fafs氏は「Rは古の[r]のみの字である」という想定をしていたわけだ
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが47 分前に送信したこのメッセージを削除
+48分 47 分前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ とりあえずそれぞれ下位分類にしませんか……
+ Fafs/தமிழ் மாணவன்さんが46 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが46 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+47分 46 分前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ それぞれの名前どうします？
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが45 分前に送信したこのメッセージを削除
+46分 45 分前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ stiepirlapera/faotmalxeraみたいな？
+ Fafs/தமிழ் மாணவன்さんが44 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが44 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+45分 44 分前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 「記号のhRlich」「歴史のReichat」みたいのを思いついた（ふむ、提案が来ている、分解機の出番だ）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが43 分前に送信したこのメッセージを削除
+43分 43 分前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ エモい
+ Fafs/தமிழ் மாணவன்さんが42 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが42 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+43分 42 分前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 「伸ばすだけ主義」「代償主義」か
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが42 分前に送信したこのメッセージを削除
+42分 42 分前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 正解
+ Fafs/தமிழ் மாணவன்さんが42 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが42 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+42分 42 分前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ (ot)果たして代償延長を理語でも「代償」って言うんですかね
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが41 分前に送信したこのメッセージを削除
+42分 41 分前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 「記号のhRlich」「歴史のReichat」がエモいのでこっちを採用したい。
+ Fafs/தமிழ் மாணவன்さんが40 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが40 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+41分 40 分前
+やったぜ
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが40 分前に送信したこのメッセージを削除
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ rer辞書には両方載せる感じかな
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが40 分前に送信したこのメッセージを削除
+41分 40 分前
+送信しました
+ 
+akrapten hrlich/jorupen reichat
+ Fafs/தமிழ் மாணவன்さんが39 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが39 分前に送信したこのメッセージを削除
+ Fafs/தமிழ் மாணவன்
+ r/R、闇が深いなあ……
+ Fafs/தமிழ் மாணவன்さんが39 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが39 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+40分 39 分前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 深いなぁ（(ot)入浴してくる）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが39 分前に送信したこのメッセージを削除
+39分 39 分前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ 記号のhRlichでは-gardはgaRdかgardかどっちだろう。
+ Fafs/தமிழ் மாணவன்さんが33 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが33 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+34分 33 分前
+ Fafs/தமிழ் மாணவன்
+ (ot)この議論のログ欲しいですね。
+ Fafs/தமிழ் மாணவன்さんが28 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが28 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+29分 28 分前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ (ot)取ります。さてopcodeにでも載せるかな（opcode要素がないがまあいいだろ）
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが14 分前に送信したこのメッセージを削除
+15分 14 分前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ リパライン語の闇を考察するとでも名付けて分離したら？（？）
+ Fafs/தமிழ் மாணவன்さんが13 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが13 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+14分 13 分前
+ .sozysozbot.@hsjoihs@jekto.vatimeliju
+ 分解機ログから禁則案件を分離して、単一のファイルにしようかな
+ .sozysozbot.@hsjoihs@jekto.vatimelijuさんが11 分前に送信したこのメッセージを削除
+12分 11 分前
+送信しました
+ 
+ Fafs/தமிழ் மாணவன்
+ なるほど
+ Fafs/தமிழ் மாணவன்さんが11 分前に送信したこのメッセージを報告 Fafs/தமிழ் மாணவன்さんが11 分前に送信したこのメッセージを削除
+Fafs/தமிழ் மாணவன்
+12分 11 分前
