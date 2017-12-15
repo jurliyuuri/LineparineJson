@@ -28920,16 +28920,13 @@
       "form" : "liparshe"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "liparshe" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェ文字　リパーシェ　理字\r\n\r\n"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\nリパライン語を表記されるために使われる文字の総称。\r\nADLP以前、古リパーシェと呼ばれる字体はウェールフープによって幻文の小文字を写し取ったものであったが、ADLPが登場すると自らロライヘル文字(loraihel)を元とした祖新理字(レアディオ文字、碑文体、raihelliparxe)を作ったが当時は普及しなかった。碑文体(raihelliparxe)に取って代わって旧リパーシェが使われたが、民族主義によって碑文体を元に手書きに合うような手記体(feklas)が出来、スペース削減、写本の労力削減のため、直線主体の書写体(khefilliparxe)、双方を元にして活字体(sardie)が生まれた。\r\nフォントについての歴史はgarfadentを参照のこと。\r\n文字配列についてはteskitを参照のこと。"
+      "title" : "mea",
+      "text" : "lipashe:LIE"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -28939,13 +28936,13 @@
       "form" : "liparxe"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "liparxe" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】[表記ゆれ]リパーシェ文字　cf. liparshe"
+      "title" : "mea",
+      "text" : "lipashe:LIE"
     } ],
     "variations" : [ ],
     "relations" : [ ]
