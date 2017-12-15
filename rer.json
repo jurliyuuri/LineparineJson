@@ -729,13 +729,13 @@
       "form" : "aders"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "aders" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】にせもの　偽造品　偽物　贋作　偽書\r\n\r\n[2014:YGK:adeez:偽造品::]\r\n[語法]\r\n【形容詞】adersen 偽の　偽物の　偽造品の\r\n【名詞】yst aders　詐欺　騙し　フェイク　フェイント\r\n【名詞】aderser 贋作者"
+      "title" : "mea",
+      "text" : "adeez:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1274,16 +1274,13 @@
       "form" : "akarstax"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "akarstax" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】アカースタシュ\r\n\r\n[2015:Akaastasy:YGK:アカースタシュ]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\nハタ王国スケニウ地方アランスケニウ市の地名"
+      "title" : "mea",
+      "text" : "Akaastasy:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2027,11 +2024,8 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】[ハタ王国史]アルムター、神殿　外の世界\r\n\r\n[2014:armtaa:YGK:アルムター]"
-    }, {
-      "title" : "用例",
-      "text" : "そうだなあ、生まれてこのかた林檎の絵とか描いたこと無い奴が、パルテノン神殿なんか描けないよな。\r\nFirlex, lidystil ler dijyki'd aklurpti'a'it niv skurlaver elx cene niv skurla paltenona'd almtar.\r\n―fafs.lavnutlart\r\n\r\n[文化]\r\nトイター教の神話に出てくる人間が住む世界の外側にある世界であり、アルムレイが存在する。また、神殿とも訳される。リパラオネ教では無の世界と神の世界のどちらもさす言葉になる。"
+      "title" : "mea",
+      "text" : "armtaa:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2041,16 +2035,13 @@
       "form" : "aloadzerd"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "aloadzerd" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】クロスアルタン　アロアジェードのようなもの\r\n\r\n[2016:aroajeed:YGK:アロアジェード::aloasierd]\r\n[同義語:klocaltarn]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\n外国のフィクション作品などにおいて「連邦の権力の権化」として描かれたりするアロアジェード(aloasierd)のようで少し違うような服装を茶化して言う言葉。"
+      "title" : "mea",
+      "text" : "aroajeed:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2781,16 +2772,13 @@
       "form" : "anonarlaman"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "anonarlaman" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】非国民\r\n\r\n[2016:anonaaraman:YGK:非国民]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\nユーゴック語における差別用語の一つとして強く本土人に認識されているもの。"
+      "title" : "mea",
+      "text" : "anonaaraman:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3656,13 +3644,13 @@
       "form" : "ark"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ark" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【前置詞】～のかなた　～の向こう　～の彼方\r\n【前置詞】～の向こう　～を越えた先の　～の先の\r\n\r\n[2015:ake:YGK:～の向こう]\r\n[語法]\r\n【前置詞】arken　かなたの　向こうの　彼方の\r\nark xelal　ずっと向こう　見えない先　遠いところ"
+      "title" : "mea",
+      "text" : "ake:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3857,16 +3845,13 @@
       "form" : "armath"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "armath" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】主観\r\n【形容詞】主観的な\r\n\r\n[2014:aamz:YGK:あなたたち]\r\n[語法]\r\n【名詞】【形容詞】 ny armath 客観的(な)"
-    }, {
-      "title" : "用例",
-      "text" : "Armath xelnkan niv unsarl. 主観は理屈を無視する。"
+      "title" : "mea",
+      "text" : "aamz:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3981,16 +3966,13 @@
       "form" : "ars"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ars" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【形容詞】無理やりな、無理な、無理矢理な、強制的な\r\n\r\n[2014:ttaas:YGK:無理矢理な]\r\n[語法]\r\n【他動詞】arses　(-'sは-'iを-'sci/fal/ioに)強いる　強制する　強要する\r\n【動詞】arson 無理やりに、無理に、無理矢理に、強制的に　強引に\r\n【名詞】arsrlussnej　強制通用力"
-    }, {
-      "title" : "用例",
-      "text" : "Jol ars xasto celes elx elenorfeno lartassa'st.　無理やり酒を飲ませるのは人々を心配させるだろう。\r\nXelken.valtoal arses lkurfo lineparine fal dzarten haten larta."
+      "title" : "mea",
+      "text" : "ttaas:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4782,16 +4764,13 @@
       "form" : "aspurn"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "aspurn" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】ジャガイモ\r\n\r\n[2015:aspuun:YGK:ジャガイモ]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\n調理はハタ王国から持ち込まれた料理を始まりとするがファイクレオネ固有種も存在する。リパラオネ人もラネーメ人も今では大好物だが、当時はあまり食用にはされなかった。"
+      "title" : "mea",
+      "text" : "aspuun:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5126,13 +5105,13 @@
       "form" : "axxervo"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "axxervo" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【形容詞】丁度の　ぴったりな　ちょうどの\r\n\r\n[2014:asseero:YGK:丁度の]"
+      "title" : "mea",
+      "text" : "asseero:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5381,13 +5360,13 @@
       "form" : "barn"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "barn" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】(科学) 糖　\r\n\r\n[2014:baan:YGK:砂糖]\r\n[語法]\r\n【名詞】dislabarnium　ペプチドグリカン"
+      "title" : "mea",
+      "text" : "baan:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
