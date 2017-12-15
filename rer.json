@@ -19118,7 +19118,10 @@
       "form" : "jarr"
     },
     "translations" : [ {
-      "title" : "xelkene'd Rer",
+      "title" : "jorupen reichat",
+      "forms" : [ "jarr" ]
+    }, {
+      "title" : "akrapten hrlich",
       "forms" : [ "jarR" ]
     } ],
     "tags" : [ ],
