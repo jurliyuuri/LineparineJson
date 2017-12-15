@@ -729,13 +729,13 @@
       "form" : "aders"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "aders" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】にせもの　偽造品　偽物　贋作　偽書\r\n\r\n[2014:YGK:adeez:偽造品::]\r\n[語法]\r\n【形容詞】adersen 偽の　偽物の　偽造品の\r\n【名詞】yst aders　詐欺　騙し　フェイク　フェイント\r\n【名詞】aderser 贋作者"
+      "title" : "mea",
+      "text" : "adeez:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1274,16 +1274,13 @@
       "form" : "akarstax"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "akarstax" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】アカースタシュ\r\n\r\n[2015:Akaastasy:YGK:アカースタシュ]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\nハタ王国スケニウ地方アランスケニウ市の地名"
+      "title" : "mea",
+      "text" : "Akaastasy:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2027,11 +2024,8 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】[ハタ王国史]アルムター、神殿　外の世界\r\n\r\n[2014:armtaa:YGK:アルムター]"
-    }, {
-      "title" : "用例",
-      "text" : "そうだなあ、生まれてこのかた林檎の絵とか描いたこと無い奴が、パルテノン神殿なんか描けないよな。\r\nFirlex, lidystil ler dijyki'd aklurpti'a'it niv skurlaver elx cene niv skurla paltenona'd almtar.\r\n―fafs.lavnutlart\r\n\r\n[文化]\r\nトイター教の神話に出てくる人間が住む世界の外側にある世界であり、アルムレイが存在する。また、神殿とも訳される。リパラオネ教では無の世界と神の世界のどちらもさす言葉になる。"
+      "title" : "mea",
+      "text" : "armtaa:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2041,16 +2035,13 @@
       "form" : "aloadzerd"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "aloadzerd" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】クロスアルタン　アロアジェードのようなもの\r\n\r\n[2016:aroajeed:YGK:アロアジェード::aloasierd]\r\n[同義語:klocaltarn]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\n外国のフィクション作品などにおいて「連邦の権力の権化」として描かれたりするアロアジェード(aloasierd)のようで少し違うような服装を茶化して言う言葉。"
+      "title" : "mea",
+      "text" : "aroajeed:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2781,16 +2772,13 @@
       "form" : "anonarlaman"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "anonarlaman" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】非国民\r\n\r\n[2016:anonaaraman:YGK:非国民]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\nユーゴック語における差別用語の一つとして強く本土人に認識されているもの。"
+      "title" : "mea",
+      "text" : "anonaaraman:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3324,13 +3312,13 @@
       "form" : "ar"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ar" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【間投詞】arlを参照\r\n【名詞】リパーシェのaの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3656,13 +3644,13 @@
       "form" : "ark"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ark" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【前置詞】～のかなた　～の向こう　～の彼方\r\n【前置詞】～の向こう　～を越えた先の　～の先の\r\n\r\n[2015:ake:YGK:～の向こう]\r\n[語法]\r\n【前置詞】arken　かなたの　向こうの　彼方の\r\nark xelal　ずっと向こう　見えない先　遠いところ"
+      "title" : "mea",
+      "text" : "ake:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3857,16 +3845,13 @@
       "form" : "armath"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "armath" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】主観\r\n【形容詞】主観的な\r\n\r\n[2014:aamz:YGK:あなたたち]\r\n[語法]\r\n【名詞】【形容詞】 ny armath 客観的(な)"
-    }, {
-      "title" : "用例",
-      "text" : "Armath xelnkan niv unsarl. 主観は理屈を無視する。"
+      "title" : "mea",
+      "text" : "aamz:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3981,16 +3966,13 @@
       "form" : "ars"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ars" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【形容詞】無理やりな、無理な、無理矢理な、強制的な\r\n\r\n[2014:ttaas:YGK:無理矢理な]\r\n[語法]\r\n【他動詞】arses　(-'sは-'iを-'sci/fal/ioに)強いる　強制する　強要する\r\n【動詞】arson 無理やりに、無理に、無理矢理に、強制的に　強引に\r\n【名詞】arsrlussnej　強制通用力"
-    }, {
-      "title" : "用例",
-      "text" : "Jol ars xasto celes elx elenorfeno lartassa'st.　無理やり酒を飲ませるのは人々を心配させるだろう。\r\nXelken.valtoal arses lkurfo lineparine fal dzarten haten larta."
+      "title" : "mea",
+      "text" : "ttaas:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4782,16 +4764,13 @@
       "form" : "aspurn"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "aspurn" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】ジャガイモ\r\n\r\n[2015:aspuun:YGK:ジャガイモ]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\n調理はハタ王国から持ち込まれた料理を始まりとするがファイクレオネ固有種も存在する。リパラオネ人もラネーメ人も今では大好物だが、当時はあまり食用にはされなかった。"
+      "title" : "mea",
+      "text" : "aspuun:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5126,13 +5105,13 @@
       "form" : "axxervo"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "axxervo" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【形容詞】丁度の　ぴったりな　ちょうどの\r\n\r\n[2014:asseero:YGK:丁度の]"
+      "title" : "mea",
+      "text" : "asseero:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5381,13 +5360,13 @@
       "form" : "barn"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "barn" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】(科学) 糖　\r\n\r\n[2014:baan:YGK:砂糖]\r\n[語法]\r\n【名詞】dislabarnium　ペプチドグリカン"
+      "title" : "mea",
+      "text" : "baan:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5445,13 +5424,13 @@
       "form" : "ber"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ber" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのbの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6396,13 +6375,13 @@
       "form" : "cer"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "cer" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのcの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7869,13 +7848,13 @@
       "form" : "der"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "der" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのdの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -8249,13 +8228,13 @@
       "form" : "dhersnjaludumito"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "dhersnjaludumito" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】ケートニアー静止術　ナイフ投げ　ゼースニャル・ウ・デゥ・ミト\r\n\r\n[2014:zeesnyar udu mito:YGK:ゼースニャル・ウ・デゥ・ミト]\r\n[類義語:udumito, la soloj-melom]\r\n[語法]\r\nこの単語は、民間の出版物、放送で使われ、udumitoは口語、la soloj-melomは政府の言い換え規則による。"
+      "title" : "mea",
+      "text" : "zeesnyar udu mito:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -8431,16 +8410,13 @@
       "form" : "dilkerta"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "dilkerta" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】ジルケタ\r\n\r\n[2015:zirketa:YGK:ジルケタ]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\nトイター教クントイタクテイ派でアルムレイ神が祀られているテントの部屋、イルキス(ilkis)に設置される。"
+      "title" : "mea",
+      "text" : "zirketa:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -9065,13 +9041,13 @@
       "form" : "diurle"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "diurle" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】(-'sは-'c)(口語)適する　適合する　適正である\r\n\r\n[2014:diure:YGK:適する]"
+      "title" : "mea",
+      "text" : "diure:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -9259,16 +9235,13 @@
       "form" : "dolt'cerva"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "dolt'cerva" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】焼肉　ドルトセーヴァ\r\n【名詞】政治資金を不法流用すること\r\n\r\n[2014:dortseva:YGK:焼肉]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\nハタ王国風の焼肉、それが出されるパーティー形式を指す。ドルトセーヴァで人民議員逮捕というのは、政治資金の不法流用では常用句になってしまった。"
+      "title" : "mea",
+      "text" : "dortseva:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -9760,13 +9733,13 @@
       "form" : "dzarn"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "dzarn" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【他動詞】((-'sは-'iを-'c対して正しいか))怪しんで調べる　警戒して調べる　検査する　調査する\r\n【他動詞】(SEの行う)検証作業をする\r\n\r\n[2014:jaamyo:YGK:調べる::]\r\n[語法]\r\n【名詞】fontadzarno 事前検証"
+      "title" : "mea",
+      "text" : "jaamyo:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -9862,13 +9835,13 @@
       "form" : "dzer"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "dzer" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのdzの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -10226,13 +10199,13 @@
       "form" : "effarle"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "effarle" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】(口語)魂　霊魂\r\n【名詞】アニマ(la meren-poltaiaresen-elminalの用語のみを指す)\r\n\r\n[2014:ippur:YGK:魂]"
+      "title" : "mea",
+      "text" : "ippur:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -10753,13 +10726,13 @@
       "form" : "er"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "er" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのeの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -12304,16 +12277,13 @@
       "form" : "fargexti"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "fargexti" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【自動詞】蚊に刺される　蚊に食われる\r\n【自動詞】危ない橋を渡る　危険な行為を解決策として行う\r\n\r\n[2015:phaa gesyti:YGK:蚊が刺す]"
-    }, {
-      "title" : "用例",
-      "text" : "Lacu dexafelk fentefargextirkun fua niv fargexti."
+      "title" : "mea",
+      "text" : "phaa gesyti:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -12900,13 +12870,13 @@
       "form" : "fartonar"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "fartonar" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【形容詞】幸せな、しあわせな、幸運な\r\n\r\n[2014:phatona:YGK:幸せな]"
+      "title" : "mea",
+      "text" : "phatona:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -13824,16 +13794,13 @@
       "form" : "fer"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "fer" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのfの文字名\r\n【間投詞】(俗語)了解　りょ～　うぃーっす　はいよ～　おっす～"
-    }, {
-      "title" : "用例",
-      "text" : "Fer fer, marta vaj, harmie klie fal fqa.　はいはい、でなんでお姉さんはここにきたんだ？"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -14415,13 +14382,13 @@
       "form" : "fhanorken"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "fhanorken" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】設備　施設\r\n【形容詞】(コードなど)複雑な　ごちゃごちゃした\r\n\r\n[2014:phanoxen:YGK:複雑な]"
+      "title" : "mea",
+      "text" : "phanoxen:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -14466,13 +14433,13 @@
       "form" : "fher"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "fher" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのfhの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -14498,13 +14465,13 @@
       "form" : "fhikhorsti"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "fhikhorsti" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リョナ\r\n\r\n[2015:figosti:YGK:リョナ]"
+      "title" : "mea",
+      "text" : "figosti:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -16170,13 +16137,13 @@
       "form" : "furca"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "furca" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】今月　この月　現在の月\r\n\r\n[2014:fuusa:YGK:月]"
+      "title" : "mea",
+      "text" : "fuusa:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -16240,13 +16207,13 @@
       "form" : "furntippingmadis"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "furntippingmadis" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】気圧\r\n\r\n[2014:huuntipimmadis:YGK:気圧"
+      "title" : "mea",
+      "text" : "huuntipimmadis:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -16384,16 +16351,13 @@
       "form" : "fyrkja"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "fyrkja" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【他動詞】[-'sは-'iを-'cで、によって]償う　つぐなう　弁償する　贖う　購う　贖罪する　しょく罪する\r\n\r\n[2014:fyukya:YGK:修理する]\r\n[語法]\r\n【名詞】fyrkjaerl 罪　犯罪\r\n【名詞】fyrkjaerlera　思想犯罪、犯罪思想\r\nIccen fyrkjaerleraer　国家思想犯"
-    }, {
-      "title" : "用例",
-      "text" : "Nixis fyrkja amiftarfe'c untirke'dy. 自己の血によって罪を贖う。\r\nFur fir'd far's fyrkja for fer'c.　春の環境がFの称号によって贖罪する(早口言葉)"
+      "title" : "mea",
+      "text" : "fyukya:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -16748,13 +16712,13 @@
       "form" : "ger"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ger" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのgの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -16876,13 +16840,13 @@
       "form" : "gindir"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "gindir" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【間投詞】[hat.:HL]ここまでです　以上です\r\n\r\n[2016:gin dii:YGK:ここまでです]"
+      "title" : "mea",
+      "text" : "gin dii:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17061,16 +17025,13 @@
       "form" : "gudder"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "gudder" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】ヒョウ　ひょう　豹\r\n\r\n[2014:guden:YGK:豹]"
-    }, {
-      "title" : "用例",
-      "text" : "Vales elm gudder'c fai werlfurp.　ヴァレスはウェールフープで豹と闘う。"
+      "title" : "mea",
+      "text" : "guden:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17182,13 +17143,13 @@
       "form" : "hahulisntarlib"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "hahulisntarlib" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】ハフリスンターリブ\r\n\r\n[2014:HahurisnTaarib:YGK:ハフリスンターリブ]\r\n[2015/5/9-khaflisntharlib-音韻修正]"
+      "title" : "mea",
+      "text" : "HahurisnTaarib:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17249,13 +17210,13 @@
       "form" : "harda"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "harda" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【形容詞】崩れた　俗な　市民的な　粗野な\r\n【形容詞】プロレタリアートの　無産階級の　労働者階級の\r\n\r\n[2015:hakader:YGK:野蛮な]"
+      "title" : "mea",
+      "text" : "hakader:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17612,13 +17573,13 @@
       "form" : "her"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "her" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのhの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17644,13 +17605,13 @@
       "form" : "hermel"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "hermel" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【他動詞】占う\r\n【他動詞】(詩語)(宗教的儀式などで)何かを起こす　発動させる　召喚する\r\n\r\n[2014:heemer:YGK:占う]"
+      "title" : "mea",
+      "text" : "heemer:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17711,16 +17672,13 @@
       "form" : "hiurn"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "hiurn" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【形容詞】暇な　退屈な　つまらない\r\n【形容詞】軽視された　見くびられた　侮られた\r\n\r\n[2014:hyun:YGK:暇な]\r\n[20150601-hiurn-品詞訂正]\r\n[語法]\r\n【名詞】hiurnil 空き時間　暇な時間"
-    }, {
-      "title" : "用例",
-      "text" : "Xosnieso p'es taelen p'es hiurn es jurlet. 慰めは甘く、それでもって暇で、しかし重要なものだ。"
+      "title" : "mea",
+      "text" : "hyun:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -18343,13 +18301,13 @@
       "form" : "ir"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ir" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのiの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -18866,13 +18824,13 @@
       "form" : "jalbart"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "jalbart" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】アルゴリズム\r\n\r\n[2014:yanbayandis:YGK:アルゴリズム]"
+      "title" : "mea",
+      "text" : "yanbayandis:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -18981,16 +18939,13 @@
       "form" : "jalkorn"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "jalkorn" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】残像\r\n【名詞】リパコールさんの別称\r\n\r\n[2014:yarkoon:YGK:残像]"
-    }, {
-      "title" : "用例",
-      "text" : "y es jalkorn. 残像だ。"
+      "title" : "mea",
+      "text" : "yarkoon:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -19163,16 +19118,13 @@
       "form" : "jarr"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "jarR" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】四日間\r\n【名詞】(トイター歴における)一週間\r\n\r\n[2016:yaar:YGK:一週間]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\nトイター歴における一週間は四日である。なお、連邦影響圏ではピリフィアー歴を主に利用する。"
+      "title" : "mea",
+      "text" : "yaar:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -19361,13 +19313,13 @@
       "form" : "jekilortlong"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "jekilortlong" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】有線通信\r\n\r\n[2015:yekirootrom:YGK:有線通信]"
+      "title" : "mea",
+      "text" : "yekirootrom:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -19482,13 +19434,13 @@
       "form" : "jer"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "jer" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのjの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -19961,13 +19913,13 @@
       "form" : "jomnarl"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "jomnarl" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】サポートセンター　コールセンター\r\n\r\n[2014:kojomnar:YGK:サポートセンター]"
+      "title" : "mea",
+      "text" : "kojomnar:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21092,13 +21044,13 @@
       "form" : "karcendzytis"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "karcendzytis" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】消費税、カーセンジュティス\r\n\r\n[2014:katamso en zyuundis:YGK:使用されたへ税]"
+      "title" : "mea",
+      "text" : "katamso en zyuundis:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21124,13 +21076,13 @@
       "form" : "kardina"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "kardina" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【他動詞】招待する　招く\r\n\r\n[2014:godinax:YGK:招待する]"
+      "title" : "mea",
+      "text" : "godinax:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21159,13 +21111,13 @@
       "form" : "karfaks"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "karfaks" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】アプリケーションソフトウェア\r\n\r\n[2014:kaafoges:YGK:ソフトウェア]"
+      "title" : "mea",
+      "text" : "kaafoges:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21207,13 +21159,13 @@
       "form" : "karfes"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "karfes" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【動詞】((-'sは~atと))結婚する\r\n\r\n[2014:kaafa-es:YGK+LIY]"
+      "title" : "mea",
+      "text" : "kaafa-es:YGK+LIY"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21382,13 +21334,13 @@
       "form" : "karpogeschel"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "karpogeschel" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】基本ソフトウェア　OS\r\n\r\n[2014:kaafogescher:YGK:基本ソフトウェア]"
+      "title" : "mea",
+      "text" : "kaafogescher:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21430,16 +21382,13 @@
       "form" : "kartixmi'a"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "kartixmi'a" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】機会　チャンス\r\n\r\n[2015:goodisimka:YGK:機会]"
-    }, {
-      "title" : "用例",
-      "text" : "Mi alceto fal kartixmi'astan! Mi alceto fal kartixmi'astan!\r\nこの機会に抹殺！この機会に抹殺！\r\n―タクティクススレイヤー　エリコ"
+      "title" : "mea",
+      "text" : "goodisimka:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21669,13 +21618,13 @@
       "form" : "kenconalcarne"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "kenconalcarne" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】(古語)X線写真　レントゲン写真\r\n\r\n[2014:kensonartsaane:YGK:レントゲン写真]"
+      "title" : "mea",
+      "text" : "kensonartsaane:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21701,13 +21650,13 @@
       "form" : "ker"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ker" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのkの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21733,13 +21682,13 @@
       "form" : "kerja"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "kerja" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】アルー教の山の神ケイヤ\r\n\r\n[2016:keiya:YGK:ケイヤ]"
+      "title" : "mea",
+      "text" : "keiya:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -21851,13 +21800,13 @@
       "form" : "kerzofantas"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "kerzofantas" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】パスワード\r\n\r\n[2015:ketsophantas:YGK:パスワード]"
+      "title" : "mea",
+      "text" : "ketsophantas:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -22451,16 +22400,13 @@
       "form" : "klirma"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "klirma" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】例え、例　例文　手本\r\n\r\n[2014:kerinmo:YGK:例え]\r\n[語法]\r\n【他動詞】klirmaes 例える　別のものに変えて表現する\r\npanqa'd klirma io 例えば　例として"
-    }, {
-      "title" : "用例",
-      "text" : "Fi co cene laozia klirma, shrlo es e'i. 例文に出来るならしてみるといい。\r\n―Vales hmirja felie"
+      "title" : "mea",
+      "text" : "kerinmo:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -22470,13 +22416,13 @@
       "form" : "klocaltarn"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "klocaltarn" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】クロスアルタン　アロアジェードのようなもの\r\n\r\n[2016:kros artan:YGK:黒服::意味はaloadzerd参照]\r\n[同義語:aloadzerd]"
+      "title" : "mea",
+      "text" : "kros artan:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -22572,16 +22518,13 @@
       "form" : "konggar"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "konggar" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】コンガー人\r\n\r\n[2016:kongaanar:YGK:コンガー人]"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\n差別語、スキ・カラムディア(ADK)における先住民"
+      "title" : "mea",
+      "text" : "kongaanar:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -22591,13 +22534,13 @@
       "form" : "kordinas"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "kordinas" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【他動詞】(文語)招待する　招く\r\n\r\n[2014:godinax:YGK:招待する]\r\n[類義語:kardina]"
+      "title" : "mea",
+      "text" : "godinax:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -22642,16 +22585,13 @@
       "form" : "korlixtel"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "korlixtel" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【形容詞】間違いない、確実な、絶対な　必ず　確かな\r\n【間投詞】間違いなく(やります)　確実に(やります)　任せてください　(軍隊での)了解、イェッサー\r\n\r\n[2014:kooristei:YGK:間違いない]\r\n[語法]\r\n【副詞】korlixtel lot 間違いなく　確実に　絶対に　確かに　必ず"
-    }, {
-      "title" : "用例",
-      "text" : "Toytar's lanefmarlyr eso lkurf mal la lexen larta korlixtel lot veles cuirteo'i toytarer's.  トイターをハゲと言うともれなく殴られます。\r\nLaoziaer's laoziaerxy als'i quneo es niv korlixtel. 作者が作ったものを全て知っているとは限らない。\r\nKorlixtel! 了解!"
+      "title" : "mea",
+      "text" : "kooristei:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -23092,13 +23032,13 @@
       "form" : "kuxemketorn"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "kuxemketorn" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】自由民主主義\r\n\r\n[2014:kuchem gedon:YGK:自由民主主義]"
+      "title" : "mea",
+      "text" : "kuchem gedon:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -23261,13 +23201,13 @@
       "form" : "kyrlistisna"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "kyrlistisna" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】(国際理語)キリスト教　基督教\r\n【名詞】救世主　助け主\r\n\r\n[2015:kyuuresdisnar:YGK:救世主]"
+      "title" : "mea",
+      "text" : "kyuuresdisnar:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -25604,13 +25544,13 @@
       "form" : "lakketer"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "lakketer" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】真珠\r\n\r\n[2014:zakketee:YGK:真珠]"
+      "title" : "mea",
+      "text" : "zakketee:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -26286,13 +26226,13 @@
       "form" : "larkas"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "larkas" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【他動詞】((-'sは-'iを-'c/io/falに))宣伝する　広報する\r\n【他動詞】((-'sは-'iをio/falに))発表する\r\n【他動詞】((-'sは-'iを-'cに))見せ付ける　見せる\r\n\r\n[2014:raakas:YGK:宣伝]"
+      "title" : "mea",
+      "text" : "raakas:YGK"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -28944,16 +28884,13 @@
       "form" : "liparshe"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "liparshe" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェ文字　リパーシェ　理字\r\n\r\n"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\nリパライン語を表記されるために使われる文字の総称。\r\nADLP以前、古リパーシェと呼ばれる字体はウェールフープによって幻文の小文字を写し取ったものであったが、ADLPが登場すると自らロライヘル文字(loraihel)を元とした祖新理字(レアディオ文字、碑文体、raihelliparxe)を作ったが当時は普及しなかった。碑文体(raihelliparxe)に取って代わって旧リパーシェが使われたが、民族主義によって碑文体を元に手書きに合うような手記体(feklas)が出来、スペース削減、写本の労力削減のため、直線主体の書写体(khefilliparxe)、双方を元にして活字体(sardie)が生まれた。\r\nフォントについての歴史はgarfadentを参照のこと。\r\n文字配列についてはteskitを参照のこと。"
+      "title" : "mea",
+      "text" : "lipashe:LIE"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -28963,13 +28900,13 @@
       "form" : "liparxe"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "liparxe" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】[表記ゆれ]リパーシェ文字　cf. liparshe"
+      "title" : "mea",
+      "text" : "lipashe:LIE"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -32545,13 +32482,13 @@
       "form" : "ner"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ner" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのnの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -34817,13 +34754,13 @@
       "form" : "per"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "per" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのpの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -36320,16 +36257,13 @@
       "form" : "rer"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "Rer" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのrの文字名"
-    }, {
-      "title" : "用例",
-      "text" : "[文化]\r\ncf. opcode.html 39-8"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -37031,13 +36965,13 @@
       "form" : "ser"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ser" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのsの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -40983,13 +40917,13 @@
       "form" : "ter"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ter" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのtの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -41057,25 +40991,6 @@
     "contents" : [ {
       "title" : "訳語",
       "text" : "【他動詞】((-'sは-'iを-'l,ioに向けて))準備する　用意する　備える\r\n\r\n[2014:doken'i ohnna:LIE:闇を取り除く]"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 6139,
-      "form" : "ternerderher"
-    },
-    "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】(口語)デュテュスンリパーシェ\r\n【名詞】(口語)文字の読み方　あいうえお\r\n\r\n[2015:TNDH:LIY:てーねーでーへー::デュテュリパの最初の列を上から四文字読んだ形]"
-    }, {
-      "title" : "用例",
-      "text" : "Liaxe co firlex dysnysti'd ternerderher? キリル文字の読み方分かってる?"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -42610,13 +42525,13 @@
       "form" : "ur"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ur" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのuの文字名\r\n\r\n[語法]\r\nXenonen Ur リパーシェのyの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -43754,13 +43669,13 @@
       "form" : "ver"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "ver" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのvの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -43971,13 +43886,13 @@
       "form" : "vher"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "vher" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのvhの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -44970,13 +44885,13 @@
       "form" : "wer"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "wer" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのwの文字名\r\n\r\n[語法]\r\n【他動詞】werustes　(詩語)聴く　聞く"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -46185,13 +46100,13 @@
       "form" : "xer"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "xer" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのxの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -48238,13 +48153,13 @@
       "form" : "zer"
     },
     "translations" : [ {
-      "title" : "状態",
-      "forms" : [ "未検証" ]
+      "title" : "xelkene'd Rer",
+      "forms" : [ "zer" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "訳語",
-      "text" : "【名詞】リパーシェのzの文字名"
+      "title" : "mea",
+      "text" : "liparxe"
     } ],
     "variations" : [ ],
     "relations" : [ ]

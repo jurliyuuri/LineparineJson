@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<title>リパライン語の枝葉末節について考察する</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="common.css">
+<link rel="stylesheet" href="menu.css">
+<style>
+.new{background-color: #ffeeee}
+</style>
+</head>
+<body class="cool">
+<h1>リパライン語の枝葉末節について考察する</h1>
+<h2>1. 理語の禁則</h2>
+<p>「<a href="https://sozysozbot.github.io/lineparine-typing/decompose_log.html#i14">リパライン語の複合語について考察する</a>」に収録した。</p>
+<h2>2. rer</h2>
+<p>まず、以下の「<a href="http://jurliyuuri.com/OS/opcode.html#i39_8">オペコードなどについて考察する 39-8.</a>」からの引用をご覧いただきたい。</p>
+<blockquote style="border: 1px solid blue; padding: 5px;">
+<p>理字rerには、巻き舌のrと長音のrという2種類の役割がある。デュテュスンリパーシェではこの二つを区別するというのが従来の定説だった<sup>[要出典]</sup>が、それについて<a href="http://jurliyuuri.com/OS/conversations/rer.txt">議論</a>が行われた。</p>
+<p>結果、「2003fの時代には派閥が3種類ほど存在した」という設定となった。（faistaderという用語自体はすでに造語されていた）</p>
+<ol>
+	<li>faista'd rer, faistader（「枝のr」）：「発音に応じて巻き舌のrと長音のrを明確に書き分けるべし」という流派。</li>
+	<li>etollenel（「伝統的やり方」）：「昔は同一の文字だったし、直前の文字で発音の区別ができる以上書き分ける必要などない」という流派。</li>
+	<li>xelkene'd rer（「xelkenのr」）：「長母音をVrとして後世に明確化させたときのみ無声r表記にすべきで、それ以外はRで書くべき」という、最も保守的な流派。</li>
+</ol>
+<p>外国人教育は合理的なfaistaderで行われ、またFAFssにいたリパラオネ人もfaistader派だったため、2003fのシステムはfaistaderで作られた。ただ、学校教育はetollenelで行われていて、行政文章はxelkene'd rerで書かれており、結局統一はなされなかった。外国人教育はfaistaderで行われ続けたので、理語で書かれた小説では『2種類のrを明確に書き分けることで、話しているのが外国人であることを強調する』という表現技法が生まれた。</p>
+</blockquote>
+<p>さて、このことを背景に、2017年12月15日に行われた<a href="rer_log.txt">議論</a>について解説する。</p>
+<p>きっかけは、jekto.vatimelijuが「xelkene'd rer辞書を作りたい」と考えだしたことである。xelkene'd rerで書くためには語源の情報が必要であるため、リパラオネ人が引くための辞書があって当然だろう、という発想に基づいてのことである。現世でのNHKアクセント辞典のような位置づけであるため、語義は載せない。</p>
+<p>対象単語として母音字+rを含む単語を検索したところ、3025単語が該当することが分かった。<small>なお、この検索方法の時点で後述する暗黙の仮定が含まれていたのである。</small>国際理語と廃止された語を抜いて、該当する語は2885単語である。そのうち2209語には語源情報が書いてある。</p>
+<p>ユーゴック語由来の長音rであれば、定義上「古くは/r/であったものが代償延長で長音化したもの」ではあるはずがないので、何も考えずに作業が終わる。ということでユーゴック語由来を埋めていたときの話である。「jarrはjarrなのかjarRなのか」という問題が発生した。</p>
+<p>この問題は、要するに次のようにまとめられる。まず、etollenelでrと書かれるものは、借用語でない限り以下のように分類できる。</p>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+	<tr><td></td><td>理祖語の/r/に由来</td><td>理祖語の/r/とは無関係な長母音</td></tr>
+	<tr><td>現在[r]などで読まれる</td><td>faistader: R<br>xelkene'd rer: R</td><td>（不存在）</td></tr>
+	<tr><td>現在長母音で読まれる</td><td>faistader: r<br>xelkene'd rer: R</td><td>faistader: r<br>xelkene'd rer: r</td></tr>
+</table>
+<p>さて、このとき、xelkene'd rerの規則は2通りに解釈できる。「Rはかつての/r/のみに用いる」という解釈と、「rは非代償延長的長音を表す符号としてのみ用いる」という解釈である。fafs氏は前者の解釈をしており、j.vは（「長母音をVrとして後世に明確化させたときのみ無声r表記にすべき」という記述に基づき）後者の解釈をしていた。</p>
+<p>解釈のこの差は、借用語が出てきたときに具現化する。</p>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+	<tr><td></td><td>理祖語の/r/に由来</td><td>理祖語の/r/とは無関係な長母音</td><td class="new">外来語の/r/などに由来</td></tr>
+	<tr><td>現在[r]などで読まれる</td><td>faistader: R<br>xelkene'd rer: R</td><td>（不存在）</td><td class="new">faistader: R<br>前者の解釈: r（理祖語の/r/に由来しないため）<br>後者の解釈: R（非代償延長的長音ではないため）</td></tr>
+	<tr><td>現在長母音で読まれる</td><td>faistader: r<br>xelkene'd rer: R</td><td>faistader: r<br>xelkene'd rer: r</td><td class="new">（不存在）</td></tr>
+</table>
+<p>なお、この当時fafs氏が書いていた版の｢初学者のためのリパライン語」には、「元々[ʀ]を起源とする/r/をRと書き、長母音が[ʀ]の代償延長以外で発生したものに対してはrで書き分ける方式です。」と記載されており、「[ʀ]を起源としない[r]」をどうするかという記述が欠けていた。</p>
+<p>話し合った結果、それぞれxelkene'd rerの下位分類として、「Rはかつての/r/のみに用いる」という流派にはjorupen reichat（「歴史のreichat」）、「rは非代償延長的長音を表す符号としてのみ用いる」という流派にはakrapten hrlich（「記号のhRlich」）という名前を与えることとした。rer辞書には両方載せることになりそうだ。</p>
+
+<p>さて、執筆している今気づいたのだが、jorupen reichatを用いる場合「子音字+r」や「語頭のr」、つまりfaistaderならRで書かれる単語、も暗記の対象になるわけだ。ということは、rer辞書の語数は更に増える宿命にあるのだ…</p>
+
+<div id="menu">読み込み中…</div>
+<div id="menuButton" onclick="openClose()">≡</div>
+<script src="./header.js" async></script>
+</body>
+</html>
